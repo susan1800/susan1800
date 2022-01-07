@@ -1,7 +1,8 @@
-   # #
-  # __:star_of_david: :om: :star_of_david:__ #
-   # #
-   #  __✋ Hi 🤚 I'm Susan 🖐__ #
+ <h1 align="center">:star_of_david: :om: :star_of_david:<br></h1>
+  <h1 align="center">✋ Hi 🤚 I'm Susan 🖐</h1>
+  <br>
+
+  
 ![This is an image](https://images.unsplash.com/photo-1559673629-863b7c622e5d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDR8fHxlbnwwfHx8fA%3D%3D&w=1000&q=80)
 
 #  #
@@ -19,6 +20,10 @@
 
 
 # #
+
+![This is an image](https://github-readme-stats.vercel.app/api?username=susan1800&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+
+
 <!--
 ![This is an image](https://github-readme-stats.vercel.app/api?username=susan1800&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
